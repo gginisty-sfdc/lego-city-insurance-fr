@@ -34,7 +34,7 @@ exports.answer1 = response => {
                 "buttons": [
                     {
                         "type":"web_url",
-                        "url":"https://fscmaster-community-1566ca07-15bfccedd65.force.com/client/s/case/Case/00B6A0000027ufsUAA",
+                        "url":"https://fscmaster-community-1566ca07-15bfccedd65.force.com/portailcumulus/s/recordlist/Case/00B6A0000027uiTUAQ",
                         "title":"Mon constat"
                     },
                     {
